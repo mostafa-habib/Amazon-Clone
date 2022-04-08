@@ -1,0 +1,12 @@
+.orders{
+    padding: 20px 20px;
+
+}
+
+.orders > h1 {
+    margin: 30px 0;
+    text-align: center;
+    /* border: 1px solid lightgray; */
+    background-color: rgb(237, 234, 234);
+    padding: 10px 0;
+}

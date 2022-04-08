@@ -1,0 +1,18 @@
+.noMatch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: calc(100vh - 30px);
+    background-color: rgb(234, 237, 237);
+    overflow: hidden;
+    
+}
+.noMatch h1 {
+    font-size: 100px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+.noMatch a {
+    text-decoration: none;
+}

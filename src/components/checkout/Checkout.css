@@ -1,0 +1,37 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  min-height: max-content;
+}
+.checkout__ad {
+  width: 95%;
+  margin-bottom: 10px;
+  
+}
+.checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.checkout__left {
+  margin-bottom: 100px;
+}
+@media screen and (max-width: 600px) {
+  .checkout {
+    flex-direction: column;
+  }
+  .checkout__right {
+    margin-bottom: 40px;
+  }
+  
+  
+}
+@media screen and (max-width: 350px) {
+  .checkout {
+    flex-direction: column;
+  }
+  .checkout__right {
+    margin-bottom: 40px;
+  }
+  
+}
