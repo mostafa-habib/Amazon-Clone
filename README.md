@@ -1,6 +1,6 @@
-## [Amazon Clone](https://github-c5c88.firebaseapp.com/)
+## [Amazon Clone](https://amazon-cloonee.netlify.app/)
 
-- Views are on: https://amazon-cloonee.netlify.app <br/>
+- Views are on: https://amazon-cloonee.netlify.app/ <br/>
 
 
 ## Topics 
