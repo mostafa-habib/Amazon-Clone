@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+## [Amazon Clone](https://github-c5c88.firebaseapp.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Views are on: https://amazon-cloonee.netlify.app <br/>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Topics 
 
-### `npm start`
+- Build checkout/ payment page with stripe functionality
+- Complete the checkout screen with the React context API
+- Build Login Page with full login functionality (sign up and sign in) with firebase authentication
+- Deploy cloud function to process payment (servesless)
+- Firebase for real time database
+- Store orders for logged in user
+- Responsive Design
+- Deploy the app live on netlfiy
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technical Skills used in this project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Front End              | Back End |
+| ------------------------ | :----------------------------------------------------------- |
+| ✔ react hooks                               | ✔ NodeJS 
+| ✔ react redux                               |✔ Express / cors
+| ✔ react router                              |✔ Authtentication with Firebase
+| ✔ redux toolkit                             |✔ Firebase Cloud Function
+| ✔ redux-devtools-extension                  | ✔ Firebase Hosting
+| ✔ immer                                     | ✔ Realtime Database / Cloud Firestore
+| ✔ reselect                                  | ✔ Stripe-js                                                                                
+| ✔ redux-thunk                               | -  
+| ✔ redux-persist                             | -
+| ✔ formik                                    | -
+| ✔ SASS                                      | - 
+| ✔ react bootstrap / AntDesign               | -
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Home Page](https://amazon-cloonee.netlify.app/)
+- [Register Page](https://amazon-cloonee.netlify.app/login)
+- [Login Page](https://amazon-cloonee.netlify.app/login)
+- [Product Page](https://amazon-cloonee.netlify.app/)
+- [Cart Page](https://amazon-cloonee.netlify.app/)
+- [Checkout Page](https://amazon-cloonee.netlify.app/checkout)
+- [Payment Page](https://amazon-cloonee.netlify.app/payment)
+- [Order Page](https://amazon-cloonee.netlify.app/orders)
+- [Payment API Endpoint](http://localhost:5001/amzon-clone-41385/us-central1/api)
+- [Stripe Payments Show](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)
+[![Stripe Payment](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)](https://firebasestorage.googleapis.com/v0/b/github-c5c88.appspot.com/o/appScreenshot%2Famazon-payment.png?alt=media&token=ea6245b6-9a90-4709-a10d-8023aeac72b7)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Quick start
 
-### `npm run eject`
+- [Download from Github](https://github.com/aaroncodehub/amazon-clone/archive/main.zip) or clone the repo: `git clone https://github.com/mostafa-habib/Amazon-Clone.git`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Make sure your NodeJS and npm versions are up to date for `16.14.1`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Install dependencies: `npm install` or `yarn`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Start the server: `npm run start` or `yarn start`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Views are on: `localhost:3000`
 
-## Learn More
+- Payment API Endpoint: `http://localhost:5001/amzon-clone-41385/us-central1/api` or <br/> Get a local endpoint: `firebase emulators:start`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Mostafa habib
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
