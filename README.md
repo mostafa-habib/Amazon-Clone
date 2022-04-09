@@ -1,6 +1,6 @@
-## [Amazon Clone](https://mostafa-firgram.web.app/)
+## [Amazon Clone](https://amazon-cloonee.netlify.app/)
 
-- Views are on: https://mostafa-firgram.web.app/ <br/>
+- Views are on: https://amazon-cloonee.netlify.app/ <br/>
 
 
 ## Topics 
@@ -23,13 +23,13 @@
 | ✔ react router                              |✔ Authtentication with Firebase
 | ✔ redux toolkit                             |✔ Firebase Cloud Function
 | ✔ redux-devtools-extension                  | ✔ Firebase Hosting
-| ✔ immer                                     | ✔ Realtime Database / Cloud Firestore
-| ✔ reselect                                  | ✔ Stripe-js                                                                                
+| ✔ axios                                     | ✔ Realtime Database / Cloud Firestore
+| ✔ react-bootsrap                            | ✔ Stripe-js                                                                                
 | ✔ redux-thunk                               | -  
-| ✔ redux-persist                             | -
-| ✔ formik                                    | -
-| ✔ SASS                                      | - 
-| ✔ react bootstrap / AntDesign               | -
+| ✔ maturial UI                               | -
+| ✔ momentjs                                  | -
+| ✔ react currency format                     | - 
+| ✔ react bootstrap                           | -
 
 
 
