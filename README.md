@@ -1,6 +1,6 @@
-## [Amazon Clone](https://amazon-cloonee.netlify.app/)
+## [Amazon Clone](https://mostafa-firgram.web.app/)
 
-- Views are on: https://amazon-cloonee.netlify.app/ <br/>
+- Views are on: https://mostafa-firgram.web.app/ <br/>
 
 
 ## Topics 
