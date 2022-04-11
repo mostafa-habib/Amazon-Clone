@@ -1,6 +1,6 @@
 ## [Amazon Clone](amazon-cloonee.netlify.app/)
 
-- Views are on: https://www.amazon-cloonee.netlify.app/ <br/>
+- Views are on: https://amazon-cloonee.netlify.app/ <br/>
 
 
 ## Topics 
