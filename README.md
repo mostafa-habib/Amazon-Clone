@@ -1,7 +1,7 @@
 ## [Amazon Clone](amazon-cloonee.netlify.app/)
 
 - Views are on: https://amazon-cloonee.netlify.app/ <br/>
-- https://github.com/mostafa-habib/Personal-portfolio/blob/main/src/images/amazon.png?raw=true
+
 
 
 ## Topics 
